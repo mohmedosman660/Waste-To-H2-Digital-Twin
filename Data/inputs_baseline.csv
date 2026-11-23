@@ -1,0 +1,11 @@
+parameter,value,unit
+feedstock_flow_kg_h,100,kg/h
+h2_output_kg_h,30.65149293,kg/h
+grid_elec_kwh_h,50,kWh/h
+renewable_elec_share,0.2,fraction
+grid_ef_kg_co2_per_kwh,0.45,kg_CO2e/kWh
+ren_ef_kg_co2_per_kwh,0.03,kg_CO2e/kWh
+heat_duty_mj_h,2038.7016,MJ/h
+heat_ef_kg_co2_per_mj,0.06,kg_CO2e/MJ
+elec_price_usd_per_kwh,0.1,USD/kWh
+h2_target_price_usd_per_kg,3.5,USD/kg
